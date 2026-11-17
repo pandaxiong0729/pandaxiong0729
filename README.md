@@ -22,10 +22,13 @@ I'm curious about unfamiliar ideas and eager to explore new directions. As a new
 - [Explain store update granularity in effects · #19223](https://github.com/sveltejs/svelte/pull/19223) — Merged
 - [Avoid binding to read-only motion values · #19226](https://github.com/sveltejs/svelte/pull/19226) — Merged
 
-<details>
-<summary><strong>More contributions</strong> · 7 open PRs</summary>
+### Marked
 
-- **Marked** — [Wait for stdout before exiting · #4197](https://github.com/markedjs/marked/pull/4197) — Open
+- [Wait for stdout before exiting · #4197](https://github.com/markedjs/marked/pull/4197) — Merged
+
+<details>
+<summary><strong>More contributions</strong> · 6 open PRs</summary>
+
 - **Whisper** — [Preserve sign words that do not introduce a number · #2902](https://github.com/openai/whisper/pull/2902) — Open
 - **Chart.js** — [Use animations in progressive line samples · #12387](https://github.com/chartjs/Chart.js/pull/12387) — Open
 - **Svelte** — [Explain resize observer binding values · #19248](https://github.com/sveltejs/svelte/pull/19248) — Open
