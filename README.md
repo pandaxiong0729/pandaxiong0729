@@ -8,6 +8,8 @@ I'm curious about unfamiliar ideas and eager to explore new directions. As a new
 
 **National Scholarship**
 
+<!-- CONTRIBUTIONS:START -->
+
 ## Open source
 
 ### Koa
@@ -32,6 +34,8 @@ I'm curious about unfamiliar ideas and eager to explore new directions. As a new
 - **Svelte** — [Clarify easing function progress and overshoot · #19191](https://github.com/sveltejs/svelte/pull/19191) — Open
 
 </details>
+
+<!-- CONTRIBUTIONS:END -->
 
 ---
 

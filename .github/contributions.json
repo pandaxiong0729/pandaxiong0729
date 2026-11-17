@@ -1,0 +1,16 @@
+{
+  "owner": "pandaxiong0729",
+  "pull_requests": [
+    { "repo": "koajs/koa", "number": 2041, "project": "Koa", "title": "Handle non-JSON-serializable thrown values" },
+    { "repo": "koajs/koa", "number": 2043, "project": "Koa", "title": "Parse query parameters in a single pass" },
+    { "repo": "sveltejs/svelte", "number": 19223, "project": "Svelte", "title": "Explain store update granularity in effects" },
+    { "repo": "sveltejs/svelte", "number": 19226, "project": "Svelte", "title": "Avoid binding to read-only motion values" },
+    { "repo": "markedjs/marked", "number": 4197, "project": "Marked", "title": "Wait for stdout before exiting" },
+    { "repo": "openai/whisper", "number": 2902, "project": "Whisper", "title": "Preserve sign words that do not introduce a number" },
+    { "repo": "chartjs/Chart.js", "number": 12387, "project": "Chart.js", "title": "Use animations in progressive line samples" },
+    { "repo": "sveltejs/svelte", "number": 19248, "project": "Svelte", "title": "Explain resize observer binding values" },
+    { "repo": "sveltejs/svelte", "number": 19224, "project": "Svelte", "title": "Preserve currentTarget across asynchronous event handlers" },
+    { "repo": "sveltejs/svelte", "number": 19192, "project": "Svelte", "title": "Explain browser-corrected element nesting" },
+    { "repo": "sveltejs/svelte", "number": 19191, "project": "Svelte", "title": "Clarify easing function progress and overshoot" }
+  ]
+}
