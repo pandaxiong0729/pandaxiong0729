@@ -3,6 +3,7 @@
   "pull_requests": [
     { "repo": "koajs/koa", "number": 2041, "project": "Koa", "title": "Handle non-JSON-serializable thrown values" },
     { "repo": "koajs/koa", "number": 2043, "project": "Koa", "title": "Parse query parameters in a single pass" },
+    { "repo": "koajs/koa", "number": 2047, "project": "Koa", "title": "Handle nullish middleware rejections" },
     { "repo": "sveltejs/svelte", "number": 19223, "project": "Svelte", "title": "Explain store update granularity in effects" },
     { "repo": "sveltejs/svelte", "number": 19226, "project": "Svelte", "title": "Avoid binding to read-only motion values" },
     { "repo": "markedjs/marked", "number": 4197, "project": "Marked", "title": "Wait for stdout before exiting" },
