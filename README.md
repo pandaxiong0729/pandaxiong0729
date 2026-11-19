@@ -16,6 +16,7 @@ I'm curious about unfamiliar ideas and eager to explore new directions. As a new
 
 - [Handle non-JSON-serializable thrown values · #2041](https://github.com/koajs/koa/pull/2041) — Merged
 - [Parse query parameters in a single pass · #2043](https://github.com/koajs/koa/pull/2043) — Merged
+- [Handle nullish middleware rejections · #2047](https://github.com/koajs/koa/pull/2047) — Merged
 
 ### Svelte
 
@@ -27,9 +28,8 @@ I'm curious about unfamiliar ideas and eager to explore new directions. As a new
 - [Wait for stdout before exiting · #4197](https://github.com/markedjs/marked/pull/4197) — Merged
 
 <details>
-<summary><strong>More contributions</strong> · 7 open PRs</summary>
+<summary><strong>More contributions</strong> · 6 open PRs</summary>
 
-- **Koa** — [Handle nullish middleware rejections · #2047](https://github.com/koajs/koa/pull/2047) — Open
 - **Whisper** — [Preserve sign words that do not introduce a number · #2902](https://github.com/openai/whisper/pull/2902) — Open
 - **Chart.js** — [Use animations in progressive line samples · #12387](https://github.com/chartjs/Chart.js/pull/12387) — Open
 - **Svelte** — [Explain resize observer binding values · #19248](https://github.com/sveltejs/svelte/pull/19248) — Open
