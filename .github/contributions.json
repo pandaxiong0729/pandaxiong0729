@@ -5,6 +5,7 @@
     { "repo": "koajs/koa", "number": 2043, "project": "Koa", "title": "Parse query parameters in a single pass" },
     { "repo": "koajs/koa", "number": 2047, "project": "Koa", "title": "Handle nullish middleware rejections" },
     { "repo": "koajs/router", "number": 271, "project": "Koa Router", "title": "Preserve wildcard segments when generating URLs" },
+    { "repo": "koajs/router", "number": 272, "project": "Koa Router", "title": "Fix module export checks on Windows" },
     { "repo": "sveltejs/svelte", "number": 19223, "project": "Svelte", "title": "Explain store update granularity in effects" },
     { "repo": "sveltejs/svelte", "number": 19226, "project": "Svelte", "title": "Avoid binding to read-only motion values" },
     { "repo": "markedjs/marked", "number": 4197, "project": "Marked", "title": "Wait for stdout before exiting" },
