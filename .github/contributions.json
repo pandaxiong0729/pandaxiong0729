@@ -6,6 +6,7 @@
     { "repo": "koajs/koa", "number": 2047, "project": "Koa", "title": "Handle nullish middleware rejections" },
     { "repo": "koajs/router", "number": 271, "project": "Koa Router", "title": "Preserve wildcard segments when generating URLs" },
     { "repo": "koajs/router", "number": 272, "project": "Koa Router", "title": "Fix module export checks on Windows" },
+    { "repo": "koajs/router", "number": 273, "project": "Koa Router", "title": "Cover module exports in Windows CI" },
     { "repo": "sveltejs/svelte", "number": 19223, "project": "Svelte", "title": "Explain store update granularity in effects" },
     { "repo": "sveltejs/svelte", "number": 19226, "project": "Svelte", "title": "Avoid binding to read-only motion values" },
     { "repo": "markedjs/marked", "number": 4197, "project": "Marked", "title": "Wait for stdout before exiting" },
