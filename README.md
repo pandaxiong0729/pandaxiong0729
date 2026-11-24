@@ -32,7 +32,7 @@ I'm curious about unfamiliar ideas and eager to explore new directions. As a new
 - [Wait for stdout before exiting · #4197](https://github.com/markedjs/marked/pull/4197) — Merged
 
 <details>
-<summary><strong>More contributions</strong> · 8 open PRs</summary>
+<summary><strong>More contributions</strong> · 7 open PRs</summary>
 
 - **Koa Router** — [Preserve wildcard segments when generating URLs · #271](https://github.com/koajs/router/pull/271) — Open
 - **Koa Router** — [Cover module exports in Windows CI · #273](https://github.com/koajs/router/pull/273) — Open
@@ -40,7 +40,6 @@ I'm curious about unfamiliar ideas and eager to explore new directions. As a new
 - **Chart.js** — [Use animations in progressive line samples · #12387](https://github.com/chartjs/Chart.js/pull/12387) — Open
 - **Svelte** — [Explain resize observer binding values · #19248](https://github.com/sveltejs/svelte/pull/19248) — Open
 - **Svelte** — [Preserve currentTarget across asynchronous event handlers · #19224](https://github.com/sveltejs/svelte/pull/19224) — Open
-- **Svelte** — [Explain browser-corrected element nesting · #19192](https://github.com/sveltejs/svelte/pull/19192) — Open
 - **Svelte** — [Clarify easing function progress and overshoot · #19191](https://github.com/sveltejs/svelte/pull/19191) — Open
 
 </details>
